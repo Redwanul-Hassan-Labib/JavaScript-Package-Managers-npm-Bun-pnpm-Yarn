@@ -159,3 +159,6 @@ bun test
 
 - আপনি যদি আগে থেকেই কোনো NPM প্রজেক্টে থাকেন, তবে সেখানে সরাসরি `bun install` দিলেই হবে। এটি অটোমেটিক আপনার `node_modules` ম্যানেজ করে নেবে।
 - Bun একইসাথে একটি **Bundler**, **Test Runner**, এবং **Package Manager**। তাই আপনার আলাদা করে `jest` বা `webpack` ব্যবহার করার প্রয়োজন নেই।
+
+ ## Redwanul Hassan Labib
+Full-Stack Web Developer.
